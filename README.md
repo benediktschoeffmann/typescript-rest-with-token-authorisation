@@ -2,6 +2,14 @@
 
 ## Installing
 
+### .env
+
+```bash
+cp .env.example .env
+```
+
+Change values.
+
 ### Packages
 
 ```bash
